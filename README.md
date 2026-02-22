@@ -96,7 +96,14 @@ We welcome contributions! Please see the [AOSSIE contribution guidelines](https:
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4.  Push the branch to your fork (git push origin feature/AmazingFeature)
-5.  Open a Pull Request against `Resonate-Website:dev` 
+5.  Open a Pull Request against `Resonate-Website:dev`
+
+## 🔗 Connect With Us
+
+- GitHub: https://github.com/AOSSIE-Org
+- X (Twitter): https://x.com/aossie_org
+- LinkedIn: https://www.linkedin.com/company/aossie
+- YouTube: https://youtube.com/@AOSSIE
 
 ## 📄 License
 
