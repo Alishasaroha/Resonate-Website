@@ -1,7 +1,7 @@
 import "./About.css";
 import AossieLogo from "../../assets/aossie_logo.png";
 import { SiGitlab } from "react-icons/si";
-import { FaEnvelope, FaGithub, FaDiscord } from "react-icons/fa";
+import { FaEnvelope, FaGithub, FaDiscord, FaYoutube } from "react-icons/fa";
 import { BsTwitterX } from "react-icons/bs";
 
 const About = () => {
@@ -38,6 +38,9 @@ const About = () => {
             </a>
             <a href="https://x.com/aossie_org">
               <BsTwitterX />
+            </a>
+            <a href="https://youtube.com/@AOSSIE" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
+             <FaYoutube />
             </a>
           </div>
         </div>

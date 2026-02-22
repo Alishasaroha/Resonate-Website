@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import "./Navbar.css";
-import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
+import { FaGithub, FaExternalLinkAlt , FaYoutube} from "react-icons/fa";
 import Logo from "@/assets/resonate_logo_white.svg";
 
 const Navbar = () => {
@@ -60,6 +60,17 @@ const Navbar = () => {
           >
             <FaGithub size={20} />
           </a>
+          <a
+           href="https://youtube.com/@AOSSIE"
+           target="_blank"
+           rel="noopener noreferrer"
+           className="nav-link"
+           onClick={handleLinkClick}
+           aria-label="YouTube"
+          >
+            <FaYoutube size={20} />
+          </a>
+          
 
           <a
             href="https://play.google.com/store/apps/details?id=com.resonate.resonate"
